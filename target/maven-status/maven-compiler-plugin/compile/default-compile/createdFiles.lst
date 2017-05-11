@@ -1,2 +1,8 @@
-com/maltron/exemplo/Resource.class
+com/maltron/exemplo/ServerErrorException.class
+com/maltron/exemplo/NotFoundExceptionMapper.class
+com/maltron/exemplo/Person.class
 com/maltron/exemplo/RESTEnabled.class
+com/maltron/exemplo/NotFoundException.class
+com/maltron/exemplo/Resource.class
+com/maltron/exemplo/ServerErrorMapper.class
+com/maltron/exemplo/Service.class
